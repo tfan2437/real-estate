@@ -1,4 +1,6 @@
-import { NAVBAR_HEIGHT } from "@/lib/constants";
+// constants
+import { NAVBAR_HEIGHT } from "@/constants/navbar-constants";
+// components
 import Navbar from "@/components/Navbar";
 
 const Layout = ({ children }: { children: React.ReactNode }) => {

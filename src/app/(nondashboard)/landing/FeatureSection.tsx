@@ -1,9 +1,9 @@
 "use client";
 
-import React from "react";
 import Link from "next/link";
-import { motion } from "framer-motion";
 import Image from "next/image";
+import { motion } from "framer-motion";
+// constants
 import { FEATURE_DATA } from "@/constants/landing-constants";
 
 const containerVariants = {

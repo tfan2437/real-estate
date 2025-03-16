@@ -1,3 +1,4 @@
+// components
 import HeroSection from "@/app/(nondashboard)/landing/HeroSection";
 import FeatureSection from "@/app/(nondashboard)/landing/FeatureSection";
 import DiscoverSection from "@/app/(nondashboard)/landing/DiscoverSection";

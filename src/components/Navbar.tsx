@@ -1,7 +1,10 @@
-import { NAVBAR_HEIGHT } from "@/lib/constants";
+"use client";
+
 import Image from "next/image";
 import Link from "next/link";
-import React from "react";
+// constants
+import { NAVBAR_HEIGHT } from "@/constants/navbar-constants";
+// components
 import { Button } from "@/components/ui/button";
 
 const Navbar = () => {

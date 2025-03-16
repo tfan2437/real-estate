@@ -1,8 +1,8 @@
 "use client";
 
-import React from "react";
-import { motion } from "framer-motion";
 import Image from "next/image";
+import { motion } from "framer-motion";
+// constants
 import { DISCOVER_DATA } from "@/constants/landing-constants";
 
 const containerVariants = {
